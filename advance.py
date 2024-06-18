@@ -11,7 +11,7 @@ def div(a,b):
 
 print(
 """Calculator ***
-select the operation
+select the operation from calculator
 1. Add 
 2.subtract
 3.multiply
